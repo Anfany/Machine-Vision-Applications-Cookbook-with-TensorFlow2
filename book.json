@@ -1,5 +1,5 @@
  {
-  "title":"TensorFlow2 Object Detection API全流程文档",
+  "title":"Machine Vision CookBook with TensorFlow2",
   "author":"AnFany",
   "language" : "zh-hans",
    "plugins": ["anchors",
@@ -13,7 +13,9 @@
                       "code",
                       "-sharing", 
                       "sharing-plus",
-                      "auto-scroll-table"
+                      "auto-scroll-table",
+                      "pageview-count",
+                      "popup"
 ],
    "pluginsConfig": {
         "tbfed-pagefooter": {
