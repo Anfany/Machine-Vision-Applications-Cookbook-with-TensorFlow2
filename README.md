@@ -1,6 +1,6 @@
 #  Machine Vision Applications Cookbook with TensorFlow2
 
-![](figure\00.png)
+![](figure/00.png)
 
 ## 序：无关编码
 
